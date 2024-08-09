@@ -17,4 +17,4 @@ It can aslo be used to evaluate infix expressions.
 How to Use Sin, Cos , Tan , Log and Exponential ?
  --First select the number , then click on the desired operation button.
 
-Hope yoou will find it helpful.
+Hope you will find it helpful.
